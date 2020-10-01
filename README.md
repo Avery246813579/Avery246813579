@@ -1,2 +1,2 @@
 # Avery Durrant
-I have programmed once. Exactly once.
+I like to build things 
